@@ -1,6 +1,4 @@
 [
-    {
-        "pfs": [
             {
                 "id": 1,
                 "title": "Reservia",
@@ -61,6 +59,4 @@
                 "url": "https://jsr029.github.io/Rakotonirina_JeanSebastien_11_25042022/",
                 "imgSrc": "./images/kasa.JPG"
             }
-        ]
-    }
 ]
